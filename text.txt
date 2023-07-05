@@ -1,0 +1,7 @@
+Einstein's Theory of Relativity is a fundamental theory in physics. It was developed by Albert Einstein in the early 20th century. The Theory of Relativity is a mathematical model that describes gravity and the motion of objects in space-time.
+
+One of the key principles of the Theory of Relativity is the principle of relativity, which states that the laws of physics are the same for all observers in inertial reference frames. This means that there is no absolute space or time, and all physical phenomena depend on the choice of the observer's reference frame.
+
+The theory also introduces the concept of curvature of space-time under the influence of mass. This means that mass and energy curve the space-time, and this curvature affects the motion of other objects in the surrounding space.
+
+The Theory of Relativity has numerous experimental confirmations and applications. It explains phenomena such as time dilation, length contraction, and the equivalence of mass and energy (E=mc²). It has also been used to understand the behavior of objects at high speeds and in the presence of strong gravitational fields.
