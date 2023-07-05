@@ -11,11 +11,11 @@ def filter_words(input_file, output_file):
         for word in long_words:
             file.write(word + '\n')
 
-# Укажите путь к исходному файлу и файлу для записи отфильтрованных слов
+# Path to the files
 input_file = 'text.txt'
 output_file = 'New.txt'
 
-# Вызов функции для фильтрации слов
+# Filtering words
 filter_words(input_file, output_file)
 
 #
@@ -28,6 +28,6 @@ def count_words(file_path):
         word_count = len(words)
         return word_count
 
-# Пример использования
+# Utilizing
 word_count = count_words('text.txt')
-print(f'Количество слов: {word_count}')
+print(f'Emount of words: {word_count}')
